@@ -7,4 +7,5 @@ use (
 	./01-tour-of-go/01-basics/01-packages
 	./01-tour-of-go/01-basics/02-imports
 	./01-tour-of-go/01-basics/03-exported-names
+	./01-tour-of-go/01-basics/04-functions
 )
