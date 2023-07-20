@@ -9,4 +9,5 @@ use (
 	./01-tour-of-go/01-basics/03-exported-names
 	./01-tour-of-go/01-basics/04-functions
 	./01-tour-of-go/01-basics/05-variables
+	./01-tour-of-go/02-flow-control/03-defer
 )
